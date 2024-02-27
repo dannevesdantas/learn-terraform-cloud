@@ -1,5 +1,5 @@
 terraform {
-
+  /*
   cloud {
     organization = "HashiCorp-tutorials-zZhkFmztCXr4"
 
@@ -7,6 +7,7 @@ terraform {
       name = "learn-terraform-cloud"
     }
   }
+  */
 
   required_providers {
     aws = {
